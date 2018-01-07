@@ -1,4 +1,30 @@
+/*customized Styles */
 
+.menu ul {
+  color: #565656;
+
+}
+
+.top-bar ul {
+  background-color: #FFFFFF;
+  color: #565656;
+}
+.top-bar ul a {
+  color: #565656;
+}
+
+.callout.large {
+  background-color: #D7CEC7;
+
+}
+
+.callout.large h1 {
+  color: #76323F;
+
+}
+
+
+/*start of Hero Slider*/
 .clean-hero-slider .orbit-caption {
   width: auto;
   height: auto;
