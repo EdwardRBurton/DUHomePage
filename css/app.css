@@ -22,7 +22,13 @@
   color: #76323F;
 
 }
+.callout.primary {
+  background-color: #D7CEC7;
+}
 
+.callout.primary h1{
+  color: #76323F;
+}
 
 /*start of Hero Slider*/
 .clean-hero-slider .orbit-caption {
